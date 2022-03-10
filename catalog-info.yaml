@@ -4,6 +4,10 @@ metadata:
   name: backstage-repo-test
   annotations:
     github.com/project-slug: 2fd5/backstage-repo-test
+  links:
+    - url: https://play.grafana.org/
+      title: My Dashboard
+      icon: FastRewind
 spec:
   type: other
   lifecycle: unknown
