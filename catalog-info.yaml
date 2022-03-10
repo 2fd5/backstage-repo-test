@@ -8,6 +8,8 @@ metadata:
     - url: https://play.grafana.org/
       title: My Dashboard
       icon: FastRewind
+  annotations:
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
