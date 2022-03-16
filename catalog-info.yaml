@@ -13,3 +13,4 @@ spec:
   type: other
   lifecycle: unknown
   owner: backstage
+  new: space
