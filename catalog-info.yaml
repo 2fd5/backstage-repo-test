@@ -4,7 +4,7 @@ metadata:
   name: backstage-repo-test
   annotations:
     github.com/project-slug: 2fd5/backstage-repo-test
-    backstage.io/techdocs-ref: 'url:https://github.com/2fd5/backstage-repo-test/blob/main/'
+    backstage.io/techdocs-ref: dir:.
   links:
     - url: https://play.grafana.org/
       title: My Dashboard
